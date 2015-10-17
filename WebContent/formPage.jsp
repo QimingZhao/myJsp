@@ -29,7 +29,7 @@
 						<div class="caption">
 							<label>Your first name:</label>
 						</div>
-						<input type="text" class="form-control" placeholder="Qiming"
+						<input type="text" class="form-control" placeholder="John"
 							name="firstName">
 					</div>
 				</div>
@@ -39,7 +39,7 @@
 						<div class="caption">
 							<label>Last name:</label>
 						</div>
-						<input type="text" class="form-control" placeholder="Zhao"
+						<input type="text" class="form-control" placeholder="Doe"
 							name="lastName">
 					</div>
 				</div>
@@ -49,7 +49,7 @@
 						<div class="caption">
 							<label>Identifying number</label>
 						</div>
-						<input type="text" class="form-control" placeholder="134-324-153"
+						<input type="text" class="form-control" placeholder="123-456-7890"
 							name="IDNumber">
 					</div>
 				</div>
@@ -60,7 +60,7 @@
 							<label>Present home address:</label>
 						</div>
 						<input type="text" class="form-control"
-							placeholder="328 palisade ave,....." name="homeAddress">
+							placeholder="123 Washington St,....." name="homeAddress">
 					</div>
 				</div>
 
